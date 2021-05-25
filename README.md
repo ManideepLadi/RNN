@@ -12,3 +12,6 @@ For Recurrent Neural Networks
 5.Prediction contains the predictions made by PartA model and PartB model as 2 .txt files.Each .txt file contains the predictions for the test data in order
 and separated by new line character.
 
+6.Due to time constraints the validation accuracy during each epoch is calculated via Teacher Forcing.
+
+
