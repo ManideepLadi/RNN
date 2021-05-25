@@ -6,7 +6,7 @@ For Recurrent Neural Networks
 2.PartB contains the answers for the Q5 and Q6.
 
 3.Each folder directory has further 2 ipython notebooks .One  with _sweep_ as sufffix is for hyperparameter runs  and other with suffix _Test_ is
-for the final training of the model using best hyperparameters.
+for the final training of the model using best hyperparameters.Also ahev a .txt file which contains the predictions made by the corresponding model on test data.
 
 4.Additional Nirmala.ttf font and attention.py files provided which needed to be downloaded and uploaded to the colab session.
 
