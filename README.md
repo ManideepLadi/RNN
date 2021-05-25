@@ -15,4 +15,6 @@ and separated by new line character.
 
 6.Due to time constraints the validation accuracy during each epoch is calculated via Teacher Forcing.
 
+7.For testing of code use the ipynb file suffixed with _Test.
+
 
