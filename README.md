@@ -17,4 +17,5 @@ and separated by new line character.
 
 7.For testing of code use the ipynb file suffixed with _Test.
 
+Report link for the assignment: https://wandb.ai/manideepladi/RNN_Assignment/reports/Assignment-3--Vmlldzo3MDg5Mzk
 
